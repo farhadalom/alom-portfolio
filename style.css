@@ -599,6 +599,7 @@ header .scroll-bar{
 @media (max-width: 768px){
   #menu{
       display: inline-block;
+      color: #fff;
   }
     
   header .navbar{
@@ -621,6 +622,7 @@ header .scroll-bar{
       font-size: 2rem;
       text-align: center;
       padding: .5rem 0;
+      color:red
       
   }
   .fa-times{
